@@ -1,1 +1,1 @@
-https://atsunemogi.github.io/Slide_Puzzle/
+https://atsunemogi.github.io/slide-puzzle/
